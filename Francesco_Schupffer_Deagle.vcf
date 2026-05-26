@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Schupffer;Francesco;;;
+FN:Francesco Schupffer
+ORG:Deagle Srl
+TITLE:Head of Program Management
+TEL;TYPE=CELL,VOICE:+393475025731
+EMAIL;TYPE=WORK:francesco.schupffer@deagle.it
+ADR;TYPE=WORK:;;P.zza della Repubblica 2;Napoli;NA;80122;Italy
+ADR;TYPE=POSTAL:;;Consorzio il Sole – Via Bovio 4;Pomigliano d'Arco;NA;80038;Italy
+URL:https://deagle.it
+END:VCARD
